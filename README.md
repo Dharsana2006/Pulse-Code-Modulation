@@ -53,7 +53,7 @@ print("Sample Binary Stream (First 10):", " ".join(binary_codes[:10]))
 # ===== 5. Visualization =====
 fig, axes = plt.subplots(3, 1, figsize=(10, 10), sharex=True)
 plt.subplots_adjust(hspace=0.4)
-plt.suptitle("NAME : SELSHIYA F\nREG NO : 212224060241",fontsize=12, fontweight='bold')
+plt.suptitle("NAME : DHARSANA A \nREG NO : 212224060061",fontsize=12, fontweight='bold')
 
 # Plot 1: Sampling
 axes[0].plot(t_analog, analog_signal, label="Analog Signal", color='gray', alpha=0.5)
@@ -146,7 +146,8 @@ plt.show()
 # Output Waveform
 ## PULSE CODE MODULATION
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbe415e0-c19a-4fef-8ba8-81e229e81d2f" />
+<img width="882" height="825" alt="image" src="https://github.com/user-attachments/assets/a5dc2745-fc7b-4e63-960a-157f1c4e0433" />
+
 
 ## DELTA MODULATION
 
